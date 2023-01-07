@@ -1,0 +1,312 @@
+svg.bi {
+  position: absolute;
+
+  right: 104px;
+  bottom: 21px;
+}
+
+form.d-flex button.btn {
+  color: #fff;
+  border: solid #dc3545;
+}
+
+.navbar {
+  background-color: #32027d;
+}
+
+div.col div.card img.suv {
+  width: 389px;
+}
+
+div.col div.card img.suv1 {
+  width: 363px;
+}
+
+div.contain1 {
+  margin-top: 35px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+
+div.contain2 {
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-right: 5px;
+
+}
+
+.tiger {
+  height: 450px;
+  margin-top: 60px;
+  width: 425px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  left: 543px;
+  border: 2px solid #3333;
+  flex-wrap: wrap;
+}
+
+.sala {
+  text-align: center;
+}
+
+* {
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+div.media img {
+  width: 379px;
+  position: relative;
+  left: 95px;
+  bottom: 50px;
+}
+
+div.texts {
+  position: relative;
+  left: 773px;
+  top: 210px;
+}
+
+div.cartoon {
+  margin-top: 0;
+  padding: 0;
+  border: 2px solid #3333;
+}
+
+div.kalyani {
+  text-align: center;
+}
+
+.kalyani2 {
+  border: 2px solid #3333;
+  margin-top: 20px;
+}
+
+div.kalyani2 img {
+  width: 548px;
+  position: relative;
+  left: 826px;
+  bottom: 40px;
+
+}
+
+.bolu {
+  position: relative;
+  top: 193px;
+  left: 121px;
+}
+
+.kalyani3 {
+  border: 2px solid #3333;
+  margin-top: 20px;
+}
+
+.kalyani3 img {
+  width: 495px;
+  left: 50px;
+  position: relative;
+  bottom: 78px;
+
+}
+
+.bolu2 {
+  position: relative;
+  left: 730px;
+  top: 157px;
+}
+
+svg.arrow {
+  width: 20px;
+}
+
+.containerxp {
+  width: 100%;
+  overflow: hidden;
+}
+
+footer {
+  background-color: #010101;
+  color: #737373;
+  width: 100vw;
+  /* height: 500px; */
+  margin-top: 0;
+  list-style: none;
+  margin-bottom: 0%;
+  padding-bottom: 0;
+}
+
+footer p {
+  position: relative;
+  /* top: 3625px;
+  left: 149px; */
+  /* font-size: 19px; */
+  list-style: none;
+  text-decoration: none;
+  color: #737373;
+
+}
+
+footer p.naru {
+  left: 428px;
+  top: 70px;
+}
+
+footer p.happy {
+  font-weight: bold;
+  text-align: center;
+}
+
+footer p a {
+  text-decoration: none;
+  color: #737373;
+  list-style: none;
+}
+
+footer ul li a {
+  list-style: none;
+  text-decoration: none;
+  color: #737373;
+  position: relative;
+}
+
+footer ul.footer_links li {
+  list-style: none;
+}
+
+footer ul li a.ayesha1 {
+  left: 400px;
+  top: 100px;
+}
+
+footer ul li a.ayesha2 {
+  left: 400px;
+  top: 115px;
+}
+
+footer ul li a.ayesha3 {
+  left: 400px;
+  top: 130px;
+}
+
+footer ul li a.ayesha4 {
+  left: 400px;
+  top: 145px;
+}
+
+footer ul li a.ayesha5 {
+  left: 675px;
+  top: 6px;
+}
+
+footer ul li a.ayesha6 {
+  left: 675px;
+  top: 21px;
+}
+
+footer ul li a.ayesha7 {
+  left: 675px;
+  top: 36px;
+}
+
+footer ul li a.ayesha8 {
+  left: 675px;
+  top: 51px;
+}
+
+footer ul li a.ayesha9 {
+  left: 935px;
+  bottom: 89px;
+}
+
+footer ul li a.ayesha10 {
+  left: 935px;
+  bottom: 74px;
+}
+
+footer ul li a.ayesha11 {
+  left: 935px;
+  bottom: 59px;
+}
+
+footer ul li a.ayesha12 {
+  left: 935px;
+  bottom: 43px;
+}
+
+footer ul li a.ayesha13 {
+  left: 1195px;
+  bottom: 106px;
+}
+
+footer ul li a.ayesha14 {
+  left: 1195px;
+  bottom: 169px;
+}
+
+footer ul li a.ayesha15 {
+  left: 1195px;
+  bottom: 232px;
+}
+
+footer img.bapu {
+  width: 120px;
+  position: absolute;
+  left: 155px;
+  top: 3578px;
+}
+
+div.kalyani4 {
+  border: 2px solid #3333;
+  margin-bottom: 20px;
+}
+
+div.kalyani4 img {
+  width: 522px;
+  position: relative;
+  left: 737px;
+
+}
+
+div.kalyani4 b.bolu3 {
+  position: relative;
+  left: 50px;
+  top: 214px;
+}
+
+div.narendra form {
+  position: relative;
+  left: 523px;
+  margin-bottom: 45px;
+}
+
+div.narendra input.end1 {
+  width: 431px;
+  height: 55px;
+  border: 2px solid #303030;
+  font-size: 22px;
+
+
+}
+div.narendra button.end2{
+  width: 155px;
+height: 55px;
+background: #e50914;
+color: #fff;
+border: 2px solid #303030;
+border-radius: 3px;
+font-weight: 300;
+font-size: 22px;
+
+
+}
+div.narendra h3{
+  text-align: center;
+  margin-bottom: 32px;
+}
+div.p-3 h1.display-4 img.puja{
+  width: 40px;
+}
